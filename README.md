@@ -1,17 +1,20 @@
-# QA_Testers_e_afins
+# ✨QA Sobre Planejamento de testes. ✨
 
-# Sobre Planejamento de testes
 
    Sabe aquele projeto que está atrasado? Você precisa realizar testes rápidos e assertivos para ontem? Gosta de trabalhar de forma minimamente organizada e planejada? A empresa onde voce trabalha ou presta serviço não possui ferramentas de Testes? 
   
    Então por já ter passado por diversas situações parecidas, disponibilizo uma planilha onde voce pode centralizar seus cenários com passos, evidencias e relatório com resultado de testes.
    
-   Vantagens desse modelo: Deixar tudo junto e bem organizado.
+   ## Vantagens desse modelo: 
+   
+   Deixar tudo junto e bem organizado.
    Plano, Cenários, Execução, Evidências, Links e demais conteudos que achar relavantes para os seu projeto de testes.
    
    As evidencias dos testes nos auxiliam quando temos que refazer testes que já foram feitos a algum tempo e acabamos nos esquecendo de todos os passos.
 
-  Arquivo: 01.Plano_Evidencias_Relatorio
+  ## Arquivo: 
+  
+  01.Plano_Evidencias_Relatorio
   
   ![image](https://user-images.githubusercontent.com/66569714/216794240-40c1eb4b-7e20-4b79-99d1-ab6b4747e89f.png)
 
