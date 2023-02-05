@@ -2,7 +2,7 @@
 
 # Planilha para Planejamento dos testes
 
-   Sabe aquele projeto que está atrasado? E você precisa realizar testes rápidos e assertivos para ontem? E você gosta de trabalhar de forma minimamente organizada e planejada? E a empresa onde voce trabalha ou presta serviço não possui ferramentas de Testes? 
+   Sabe aquele projeto que está atrasado? Você precisa realizar testes rápidos e assertivos para ontem? Gosta de trabalhar de forma minimamente organizada e planejada? A empresa onde voce trabalha ou presta serviço não possui ferramentas de Testes? 
   
    Então por já ter passado por diversas situações parecidas, disponibilizo uma planilha onde voce pode centralizar seus cenários com passos, evidencias e relatório com resultado de testes.
 
