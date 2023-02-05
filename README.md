@@ -12,7 +12,7 @@
 
 
   A coluna Cenários possui um link que é onde você vai adicionar os passos para execução do Cenários de Testes, 
-  e duramte a execução voce adiciona a Data e Status  
+  e durante a execução voce adiciona a Data e Status  
   
   
 ![image](https://user-images.githubusercontent.com/66569714/216794272-4b2a6b12-8a60-474d-9431-96c7212a09fb.png)
