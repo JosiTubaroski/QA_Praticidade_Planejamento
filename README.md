@@ -1,4 +1,4 @@
-# ✨Sobre Planejamento de testes. ✨
+# ✨Praticidade no Planejamento de testes. ✨
 
 
    Sabe aquele projeto que está atrasado? Você precisa realizar testes rápidos e assertivos para ontem? Gosta de trabalhar de forma minimamente organizada e planejada? A empresa onde voce trabalha ou presta serviço não possui ferramentas de Testes? 
